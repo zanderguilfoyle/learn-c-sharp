@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\He
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoneDealApp", "DoneDealApp\DoneDealApp.csproj", "{65809D1A-1D6D-496F-9E88-7122A65126A6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B4C94C57-2645-42A6-A213-4668455213DC}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
